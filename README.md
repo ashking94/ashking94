@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashish Singh</h1>
+<h3 align="center">Sr SDE working with AWS</h3>
 
-<!--
-**ashking94/ashking94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashking94&label=Profile%20views&color=0e75b6&style=flat" alt="ashking94" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashking94&" alt="ashking94" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashking94&show_icons=true&locale=en" alt="ashking94" />
+ 
+</p>
+
+<p align="center" >
+   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" alt="ashking94"  height=250/>
+</p>
+
+![]()
